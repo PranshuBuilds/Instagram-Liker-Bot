@@ -6,16 +6,16 @@ Automated liking Instagram posts in your Explore pages and automated commenting 
 - The bot will refresh the explore page after 12 likes.
 
 
-# What you need to run ?
+## What you need to run ?
 - You will need the same version of chromedriver: (DOWNLOAD FROM HERE) https://chromedriver.chromium.org/downloads
 - To check your Google Chrome version go to top right corner (settings) -> Help -> About Google Chrome.
 - **Be sure to download the same version of chromedriver as your Google Chrome BROWSER**
 
-# What you need to change ?
+## What you need to change ?
 - You will need to change your Instagram Credentials in the script. **(LINE 61 and 63)**
 - You will need to change your chromedriver.exe absolute path. **(LINE 21)**
 
-# How to run the Python script ?
+## How to run the Python script ?
 - Enter CMD 
 - Run: 
 > python [path]\instagramBot.py
