@@ -6,7 +6,7 @@ import random
 import string
 from time import sleep
 from selenium import webdriver
-#Change this list to your wanted comments (what you wnat to comment on posts)
+#Change this list to your wanted comments (what you want to comment on posts)
 comments = ['Please Visite on my page take a look if you like please follow ', 'Nice post- just follow me ', 'loool very nice!-want to earn money just follow me ', 'I like it!-follow me for daily motivational post on your wall', 'Super ;)-follow me guys ', 'hmmm,interesting-follow me for daily money earning tips ', ' wow- follow me for online money earning tips ', 'amazing post dude-also check out my profile , for Online money earning tips  ', 'learn something new - follow me  ', 'Mind blowing - follow for money earning tips Online money  ', 'I like it , great post- follow my page please -daily money earning tips ', ]
 
 #This variables to keep tracking of the posts 
